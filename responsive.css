@@ -5,6 +5,7 @@
   #hamburger-nav {
     display: flex;
   }
+  
   .home-container {
     margin-top: 25px;
     display: none;
@@ -26,14 +27,14 @@
   }
   .home-info p {
     font-size: 15px;
-    margin-top: 90px;
+    margin-top: 110px;
     text-align: justify;
   }
   .home-picture {
     margin-top: 40px;
     float: right;
     width: 70%;
-    height: 40%;
+    height: 30%;
     margin-right: 25px;
     animation: slideTop 1s ease forwards;
   }
@@ -107,7 +108,7 @@
   .about-picture {
     margin: auto;
     width: 70%;
-    height: 50%;
+    height: 30%;
     border-radius: 10% / 50%;
     background-size: cover;
     background-position: center;
